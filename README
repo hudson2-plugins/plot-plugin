@@ -1,0 +1,7 @@
+To build
+
+mvn clean install
+
+To run and test
+
+mvn hpi:run
